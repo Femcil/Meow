@@ -1,0 +1,12 @@
+{
+  "name": "Falling Cherry Leaves",
+  "description": "Renders falling cherry leaves across the screen.",
+  "authors": [
+    {
+      "name": "Femcil",
+      "id": "0"
+    }
+  ],
+  "main": "index.tsx",
+  "version": "1.0.0"
+}
